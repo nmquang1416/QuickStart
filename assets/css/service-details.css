@@ -1,0 +1,25 @@
+.container-edit-size{
+    max-width: 720px;
+}
+body{
+
+}
+div.form-floating.w-100.m-auto.text-area.align-items-center textarea{
+    color: white;
+}
+h2{
+    font-size: 52px;
+    color: white;
+    font-weight: 700;
+    margin-bottom: 1rem!important;
+}
+textarea.form-control{
+    background-color: var(--background-dark-suble)!important;
+    border: none;
+}
+.edit-text-choice{
+    font-size: 18px;
+}
+input[type=radio]{
+
+}
